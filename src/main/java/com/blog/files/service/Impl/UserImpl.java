@@ -1,6 +1,5 @@
 package com.blog.files.service.Impl;
 
-import com.blog.files.entites.Category;
 import com.blog.files.entites.User;
 import com.blog.files.exception.NotFoundException;
 import com.blog.files.payloads.UserDto;
